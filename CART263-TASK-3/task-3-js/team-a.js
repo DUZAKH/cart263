@@ -88,7 +88,7 @@ function setup_A() {
    * remember you can define other functions inside....
    * Do not change any code above or the HTML markup.
    * **/
-
+//Daniel, Sean, and Kiana
   function aniA(parentCanvas) {
     console.log("in A");
     
@@ -183,6 +183,7 @@ function setup_A() {
    * remember you can define other functions inside....
    * Do not change any code above or the HTML markup.
    * **/
+  //Kiana
   function aniB(parentCanvas) {
     console.log("in B");
     let squares = [];
@@ -249,6 +250,7 @@ function setup_A() {
   /**
    * Creating a square that apeard in the direction that the arrows keys are pressed inside the canvas in the style of the game snake
    */
+  //Daniel
   function aniC(parentCanvas) {
 
     console.log("in C");
